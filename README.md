@@ -1,10 +1,10 @@
 # Multi-Level-MMD-Regularization (PyTorch)
 
-<div align=center> <img src="./figures/cifar10_vgg11_blended.png"/> </div>
+<div align=center> <img src="./figures/cifar10_vgg11_blended.png" width="70%" height="70%"/> </div>
 
-<div align=center> <img src="./figures/cifar10_vgg11_blended_mlmmdr_0.1_all.png"/> </div>
+<div align=center> <img src="./figures/cifar10_vgg11_blended_mlmmdr_0.1_all.png" width="70%" height="70%"/> </div>
 
-<div align=center> <img src="./figures/cifar10_vgg11_blended_mlmmdr_0.1_last.png"/> </div>
+<div align=center> <img src="./figures/cifar10_vgg11_blended_mlmmdr_0.1_last.png" width="70%" height="70%"/> </div>
 
 [Enhancing Backdoor Attacks with Multi-Level MMD Regularization]()
 
