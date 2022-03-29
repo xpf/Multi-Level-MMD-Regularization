@@ -6,7 +6,7 @@
 
 <div align=center> <img src="./figures/cifar10_vgg11_blended_mlmmdr_0.1_last.png" width="70%" height="70%"/> </div>
 
-[Enhancing Backdoor Attacks with Multi-Level MMD Regularization]()
+[Enhancing Backdoor Attacks with Multi-Level MMD Regularization](https://ieeexplore.ieee.org/document/9743735)
 
 Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li, *IEEE Transactions on Dependable and Secure Computing*, 2022.
 
@@ -42,7 +42,7 @@ If you find this work useful for your research, please cite our paper:
 @article{xia2021enhancing,
   title={Enhancing Backdoor Attacks with Multi-Level MMD Regularization},
   author={Xia, Pengfei and Niu, Hongjing and Li, Ziqiang and Li, Bin},
-  journal={arXiv preprint arXiv:2111.05077},
-  year={2021}
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2022}
 }
 ```
