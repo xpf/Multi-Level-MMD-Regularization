@@ -39,7 +39,7 @@ python visualize.py --data_path your_path --data_name cifar10 --model_name vgg11
 ## Citation
 If you find this work useful for your research, please cite our paper:
 ```
-@article{xia2021enhancing,
+@article{xia2022enhancing,
   title={Enhancing Backdoor Attacks with Multi-Level MMD Regularization},
   author={Xia, Pengfei and Niu, Hongjing and Li, Ziqiang and Li, Bin},
   journal={IEEE Transactions on Dependable and Secure Computing},
