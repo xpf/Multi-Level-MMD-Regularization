@@ -35,3 +35,14 @@ python visualize.py --data_path your_path --data_name cifar10 --model_name vgg11
 # Visualize VGG-11 trained on CIFAR-10 with SL-MMDR and lambda set to 0.1
 python visualize.py --data_path your_path --data_name cifar10 --model_name vgg11 --mlmmdr_lamb 0.1 --mlmmdr_layer last
 ```
+
+## Citation
+If you find this work useful for your research, please cite our paper:
+```
+@article{xia2021enhancing,
+  title={Enhancing Backdoor Attacks with Multi-Level MMD Regularization},
+  author={Xia, Pengfei and Niu, Hongjing and Li, Ziqiang and Li, Bin},
+  journal={arXiv preprint arXiv:2111.05077},
+  year={2021}
+}
+```
