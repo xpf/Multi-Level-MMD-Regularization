@@ -44,5 +44,6 @@ If you find this work useful for your research, please cite our paper:
   author={Xia, Pengfei and Niu, Hongjing and Li, Ziqiang and Li, Bin},
   journal={IEEE Transactions on Dependable and Secure Computing},
   year={2022}
+  publisher={IEEE}
 }
 ```
