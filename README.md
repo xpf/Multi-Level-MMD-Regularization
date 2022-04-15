@@ -54,4 +54,4 @@ If you find this work useful for your research, please consider citing our paper
 
 ## Note
 
-We did not use hook when training the backdoor models in the paper, and recently found that the models trained without hook perform better than models trained with hook. We also don't know the reason behind it. So, in order to achieve similar results as in the published paper, we recommend not using hook, even though it makes the code unsightly.
+We trained the backdoor models without hooks in our paper, and recently found that the models trained without hooks performed better than the models trained with hooks. We also do not know the reason behind this. Therefore, to achieve similar results as in the published paper, we recommend not using hooks, even though it makes the code unsightly.
